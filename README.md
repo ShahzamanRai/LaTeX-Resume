@@ -31,7 +31,7 @@ To use this LaTeX template for your own resume, follow these steps:
 
 1. Open the `deedy_resume-openfont.tex` file in a LaTeX editor of your choice.
 2. Modify the content in each section according to your own details.
-3. Save the changes and compile the `resume.tex` file using a LaTeX distribution.
+3. Save the changes and compile the `deedy_resume-openfont.tex` file using a LaTeX distribution.
 4. The resulting `resume.pdf` file will be generated in the same directory.
 
 ## Connect with Me
