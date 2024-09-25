@@ -14,7 +14,7 @@ This resume is created using LaTeX and follows a clean and professional design. 
 
 ## Preview
 
-![Resume Preview](https://github.com/ShahzamanRai/LaTeX-Resume/blob/main/assets/Preview.png)
+![Resume Preview](https://github.com/ShahzamanRai/LaTeX-Resume/blob/main/assets/Preview1.png)
 
 You can also [download the PDF version here](https://github.com/ShahzamanRai/LaTeX-Resume/blob/main/assets/_Shahzaman-Resume.pdf).
 
